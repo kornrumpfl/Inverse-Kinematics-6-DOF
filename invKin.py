@@ -1,4 +1,5 @@
-from sympy import symbols, cos, sin, pi, simplify, pprint, tan, expand_trig, sqrt, trigsimp, atan2
+from sympy import symbols, cos, sin, pi, simplify, pprint, tan, expand_trig, trigsimp, atan2
+from math import sqrt
 from sympy.matrices import Matrix
 
 from mpl_toolkits.mplot3d import Axes3D
